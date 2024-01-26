@@ -15,10 +15,14 @@ Please first clone the code from https://github.com/gloriousmeng/DDRN.git your l
 >python run.py
 
 ## Cite
+```angular2html
 @inproceedings{huimeng2024ddrn,
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
   author={Hui Meng, Xuyu Peng and Keping Yang},
   year={2024}
 }
+```
+
+
 
 
