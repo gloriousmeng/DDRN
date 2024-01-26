@@ -14,6 +14,11 @@ Please first clone the code from https://github.com/gloriousmeng/DDRN.git your l
 >cd ..\
 >python run.py
 
-
+## Cite
+@inproceedings{huimeng2024ddrn,
+  title={Deep Disentangled Representation Network for Treatment Effect Estimation},
+  author={Hui Meng, Xuyu Peng and Keping Yang},
+  year={2024}
+}
 
 
