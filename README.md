@@ -6,6 +6,7 @@ as described in our paper, which submitted to IJCAI 2024 is currently under revi
 
 ## Requirements
 Python>=3.6.8
+
 PyTorch>=1.10
 
 ## Try it Out
