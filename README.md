@@ -16,7 +16,7 @@ Please first clone the code from https://github.com/gloriousmeng/DDRN.git your l
 >cd ..\
 >python run.py
 
-## Dataset
+## Datasets
 We provide the IHDP, ACIC 2016 and Jobs publicly available benchmark datasets. 
 In addition, to facilitate learning and research for our readers, 
 we are planning to make the real-wold industrial dataset used in our paper publicly available. Stay tuned for its release.
