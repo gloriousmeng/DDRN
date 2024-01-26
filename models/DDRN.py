@@ -290,7 +290,7 @@ class DDRN(nn.Module):
         saved_model_dir = os.path.abspath(os.curdir) + '/saved_models/'
         if not os.path.exists(saved_model_dir):
             os.makedirs(saved_model_dir)
-        # 仅保留最新的checkpoint
+        # Get oldest checkpoint
         get_oldest_file(saved_model_dir)
         # save model
         torch.save(self.state_dict(), os.path.join(saved_model_dir, model_filename))
