@@ -21,7 +21,7 @@ Please first clone the code from https://github.com/gloriousmeng/DDRN.git your l
 @inproceedings{huimeng2024ddrn,
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
   author={** Meng, ** Peng and ** Yang},
-  organization={***}
+  organization={***},
   year={2024}
 }
 ```
