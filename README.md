@@ -6,7 +6,9 @@ as described in our paper, which submitted to IJCAI 2024 is currently under revi
 
 ## Requirements
 Python>=3.6.8 \
-PyTorch>=1.10
+PyTorch>=1.10 \
+Scikit-uplift>=0.5.1
+
 
 ## Try it Out
 Please first clone the code from https://github.com/gloriousmeng/DDRN.git your local machine.
