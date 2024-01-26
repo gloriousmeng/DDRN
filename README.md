@@ -9,7 +9,7 @@ Scikit-uplift>=0.5.1
 
 
 ## Try it Out
-Please first clone the code from https://github.com/gloriousmeng/DDRN.git your local machine.
+Please first clone the code from https://github.com/gloriousmeng/DDRN.git to your local machine.
 
 >cd ..\
 >python run.py
