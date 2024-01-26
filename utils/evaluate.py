@@ -1,6 +1,6 @@
 # coding: utf-8
 # @Time: 2024/1/26 14:18
-# @Author: Hui Meng
+# @Author: **
 # @FileName: evaluate.py
 # @Software: PyCharm Community Edition
 from sklift.metrics import uplift_auc_score

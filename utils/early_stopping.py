@@ -1,6 +1,6 @@
 # coding: utf-8
 # @Time: 2023/7/6 3:29 下午
-# @Author: Hui Meng
+# @Author: **
 # @FileName: early_stopping.py
 # @Software: PyCharm Community Edition
 import torch
