@@ -20,7 +20,8 @@ Please first clone the code from https://github.com/gloriousmeng/DDRN.git your l
 ```angular2html
 @inproceedings{huimeng2024ddrn,
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
-  author={Hui Meng, Xuyu Peng and Keping Yang},
+  author={** Meng, ** Peng and ** Yang},
+  organization={***}
   year={2024}
 }
 ```
