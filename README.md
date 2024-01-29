@@ -9,7 +9,8 @@ Scikit-uplift>=0.5.1
 
 
 ## Try it Out
-Please first clone the code from https://github.com/gloriousmeng/DDRN.git to your local machine.
+We provide a demonstration example based on Dataset ACIC2016. Specifically,
+please first clone the code from https://github.com/gloriousmeng/DDRN.git to your local machine, and execute the following command:
 
 >cd ..\
 >python run.py
