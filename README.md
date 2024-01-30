@@ -25,7 +25,7 @@ we are planning to make the real-wold industrial dataset used in our paper publi
 @inproceedings{huimeng2024ddrn,
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
   author={** Meng, ** Peng and ** Yang},
-  organization={***},
+  organization={Alibaba Group},
   year={2024}
 }
 ```
