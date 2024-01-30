@@ -22,7 +22,7 @@ we are planning to make the real-wold industrial dataset used in our paper publi
 
 ## Cite
 ```angular2html
-@inproceedings{huimeng2024ddrn,
+@inproceedings{huimeng2024ddrn},
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
   author={** Meng, ** Peng and ** Yang},
   organization={Alibaba Group},
