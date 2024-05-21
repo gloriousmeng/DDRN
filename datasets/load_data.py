@@ -1,6 +1,6 @@
 # coding: utf-8
-# @Time: 2024/1/26 13:42
-# @Author: **
+# @Time: 2024/3/26 13:42
+# @Author: 从文
 # @FileName: load_data.py
 # @Software: PyCharm Community Edition
 import numpy as np

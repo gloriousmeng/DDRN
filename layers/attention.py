@@ -1,6 +1,6 @@
 # coding: utf-8
-# @Time: 2024/1/26 11:37
-# @Author: **
+# @Time: 2024/3/26 11:37
+# @Author: 从文
 # @FileName: attention.py
 # @Software: PyCharm Community Edition
 import torch

@@ -1,6 +1,6 @@
 # coding: utf-8
-# @Time: 2024/1/26 10:33
-# @Author: **
+# @Time: 2024/3/26 10:33
+# @Author: 从文
 # @FileName: run.py
 # @Software: PyCharm Community Edition
 import argparse
@@ -11,7 +11,7 @@ import numpy as np
 import torch
 
 from DDRN.datasets.load_data import LoadData
-from DDRN.model.DDRN import DDRN
+from DDRN.models.DDRN import DDRN
 from DDRN.utils.early_stopping import EarlyStopping
 from DDRN.utils.evaluate import Evaluator
 from DDRN.utils.utils import cim_logger, weights_init

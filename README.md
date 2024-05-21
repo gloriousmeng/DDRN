@@ -1,11 +1,13 @@
 ##  Background 
 **DDRN: Deep Disentangled Representation Network for Treatment Effect Estimation**
 
-This is a PyTorch implementation of the Deep Disentangled Representation Network for the task of counterfactual regression, as described in our paper that has been submitted to IJCAI 2024 and is currently under review.
+This is a PyTorch implementation of the Deep Disentangled Representation Network for the task of counterfactual regression, as described in our paper that has been submitted to CIKM 2024 and is currently under review.
 ## Requirements
 Python>=3.6.8 \
 PyTorch>=1.10 \
-Scikit-uplift>=0.5.1
+Scikit-uplift>=0.5.1 \
+numpy==1.26.3
+
 
 
 ## Try it Out
@@ -19,16 +21,6 @@ please first clone the code from https://github.com/gloriousmeng/DDRN.git to you
 In the ```DDRN/datasets/``` directory, we provide the IHDP, ACIC 2016 and ACIC public benchmark datasets.
 In addition, to facilitate learning and research for our readers, 
 we are planning to make the real-wold industrial dataset used in our paper publicly available. Stay tuned for its release.
-
-## Cite
-```angular2html
-@inproceedings{**meng2024ddrn},
-  title={Deep Disentangled Representation Network for Treatment Effect Estimation},
-  author={** Meng, ** Peng and ** Yang},
-  organization={**},
-  year={2024}
-}
-```
 
 
 

@@ -1,6 +1,6 @@
 # coding: utf-8
-# @Time: 2023/7/6 3:29 下午
-# @Author: **
+# @Time: 2024/1/6 3:29 下午
+# @Author: 从文
 # @FileName: early_stopping.py
 # @Software: PyCharm Community Edition
 import torch
