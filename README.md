@@ -30,7 +30,6 @@ we are planning to make the real-wold industrial dataset used in our paper publi
   title={Deep Disentangled Representation Network for Treatment Effect Estimation},
   author={Hui Meng, Keping Yang, Xuyu Peng, Yifan Shen and Bo Zheng},
   organization={Alibaba Group},
-  year={2024},
-  booktitle={the 33st ACM International Conference on Information and Knowledge Management}
+  year={2024}
 }
 ```
