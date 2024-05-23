@@ -24,5 +24,13 @@ In addition, to facilitate learning and research for our readers,
 we are planning to make the real-wold industrial dataset used in our paper publicly available. Stay tuned for its release.
 
 
-
-
+## Citation
+```angular2html
+@inproceedings{huimeng2024ddrn,
+  title={Deep Disentangled Representation Network for Treatment Effect Estimation},
+  author={Hui Meng, Keping Yang, Xuyu Peng, Yifan Shen and Bo Zheng},
+  organization={Alibaba Group},
+  year={2024},
+  booktitle={the 33st ACM International Conference on Information and Knowledge Management}
+}
+```
