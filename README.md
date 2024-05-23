@@ -6,7 +6,8 @@ This is a PyTorch implementation of the Deep Disentangled Representation Network
 Python>=3.6.8 \
 PyTorch>=1.10 \
 Scikit-uplift>=0.5.1 \
-numpy==1.26.3
+Numpy==1.26.3 \
+Scikit-learn==1.3.2
 
 
 

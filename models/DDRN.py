@@ -141,7 +141,7 @@ class DDRN(nn.Module):
     def __init__(self, feature_dim, hidden_dim, expert_dim, n_expert, n_task, n_head, use_gates=False, log_dir='runs'):
         super(DDRN, self).__init__()
         self.feature_dim = feature_dim
-        self.expert_qdim = expert_dim
+        self.expert_dim = expert_dim
 
         # Define expert multi-head attention
         self.expert_attention = Expert_Attention(feature_dim=feature_dim, expert_dim=expert_dim, n_expert=n_expert, n_task=n_task, num_heads=n_head, use_att=use_gates)

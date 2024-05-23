@@ -77,9 +77,9 @@ class Evaluator(object):
     def calculate_stats(self, y1pred, y0pred):
         ate = self.abs_ate(y1pred, y0pred)
         pehe = self.pehe(y1pred, y0pred)
-        within_pehe = self.within_pehe(y1pred, y0pred)
+        # within_pehe = self.within_pehe(y1pred, y0pred)
 
-        return ate, pehe, within_pehe
+        return ate, pehe
 
     def without_cf_calculate_stats(self, y1pred, y0pred):
         att_bias = self.att_bias(y1pred=y1pred, y0pred=y0pred)
